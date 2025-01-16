@@ -1,0 +1,15 @@
+/Users/bostonunderwood/RiderProjects/mission3/mission3/bin/Debug/net8.0/mission3
+/Users/bostonunderwood/RiderProjects/mission3/mission3/bin/Debug/net8.0/mission3.deps.json
+/Users/bostonunderwood/RiderProjects/mission3/mission3/bin/Debug/net8.0/mission3.runtimeconfig.json
+/Users/bostonunderwood/RiderProjects/mission3/mission3/bin/Debug/net8.0/mission3.dll
+/Users/bostonunderwood/RiderProjects/mission3/mission3/bin/Debug/net8.0/mission3.pdb
+/Users/bostonunderwood/RiderProjects/mission3/mission3/obj/Debug/net8.0/mission3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bostonunderwood/RiderProjects/mission3/mission3/obj/Debug/net8.0/mission3.AssemblyInfoInputs.cache
+/Users/bostonunderwood/RiderProjects/mission3/mission3/obj/Debug/net8.0/mission3.AssemblyInfo.cs
+/Users/bostonunderwood/RiderProjects/mission3/mission3/obj/Debug/net8.0/mission3.csproj.CoreCompileInputs.cache
+/Users/bostonunderwood/RiderProjects/mission3/mission3/obj/Debug/net8.0/mission3.sourcelink.json
+/Users/bostonunderwood/RiderProjects/mission3/mission3/obj/Debug/net8.0/mission3.dll
+/Users/bostonunderwood/RiderProjects/mission3/mission3/obj/Debug/net8.0/refint/mission3.dll
+/Users/bostonunderwood/RiderProjects/mission3/mission3/obj/Debug/net8.0/mission3.pdb
+/Users/bostonunderwood/RiderProjects/mission3/mission3/obj/Debug/net8.0/mission3.genruntimeconfig.cache
+/Users/bostonunderwood/RiderProjects/mission3/mission3/obj/Debug/net8.0/ref/mission3.dll
