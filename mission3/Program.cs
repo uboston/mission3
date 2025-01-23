@@ -131,10 +131,12 @@ public class Program
                     {
                         Console.WriteLine($"{i}. {foodItemList[i-1]}");
                     }
-
+                    
+                    // User input to delete food items
                     Console.WriteLine("\nPlease select while food item you would like to delete from the list above:");
                     int deleteFoodItem = Convert.ToInt32(Console.ReadLine());
                     
+                    // Check to make sure that the food item to delete is in the list index
                     if ((deleteFoodItem > 0) && (deleteFoodItem <= foodItemList.Count))
                     {
                         Console.WriteLine($"\nFood item deleted: {foodItemList[deleteFoodItem - 1]}");
@@ -147,7 +149,8 @@ public class Program
                     }
                 }
             }
-
+            
+            // Option 3: Print list of current food items
             if (Choice == 3)
             {
                 Console.WriteLine("\nHere is a list of all food items: ");
@@ -156,7 +159,8 @@ public class Program
                     Console.WriteLine($"{i}. {foodItemList[i-1]}");
                 }
             }
-
+            
+            // Option 4: Exit the program
             if (Choice == 4)
             {
                 Console.WriteLine("\nThanks for visiting Spencer's Food Bank! Have a good day!");
